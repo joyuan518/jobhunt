@@ -1,0 +1,8 @@
+f:\Source Codes\Net\My Projects\jobhunt\jobhunt.web\bin\Debug\netcoreapp1.1\jobhunt.web.deps.json
+f:\Source Codes\Net\My Projects\jobhunt\jobhunt.web\bin\Debug\netcoreapp1.1\jobhunt.web.runtimeconfig.json
+f:\Source Codes\Net\My Projects\jobhunt\jobhunt.web\bin\Debug\netcoreapp1.1\jobhunt.web.runtimeconfig.dev.json
+f:\Source Codes\Net\My Projects\jobhunt\jobhunt.web\bin\Debug\netcoreapp1.1\jobhunt.web.dll
+f:\Source Codes\Net\My Projects\jobhunt\jobhunt.web\bin\Debug\netcoreapp1.1\jobhunt.web.pdb
+f:\Source Codes\Net\My Projects\jobhunt\jobhunt.web\obj\Debug\netcoreapp1.1\jobhunt.web.AssemblyInfo.cs
+f:\Source Codes\Net\My Projects\jobhunt\jobhunt.web\obj\Debug\netcoreapp1.1\jobhunt.web.dll
+f:\Source Codes\Net\My Projects\jobhunt\jobhunt.web\obj\Debug\netcoreapp1.1\jobhunt.web.pdb
