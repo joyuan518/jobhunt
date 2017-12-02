@@ -7,7 +7,7 @@ namespace JobHunt.BusinessLogic
     {
         public Employee()
         {
-
+            
         }    
     }
 }
